@@ -1,2 +1,4 @@
 *.b64
 .DS_Store
+.vercel
+.env*
